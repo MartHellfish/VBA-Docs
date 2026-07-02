@@ -23,6 +23,8 @@ _expression_.**Text**
 _expression_ A variable that represents a **[Characters](Excel.Characters.md)** object.
 
 
+## Limitation
 
+Only works on cells with 256 signs or less.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
